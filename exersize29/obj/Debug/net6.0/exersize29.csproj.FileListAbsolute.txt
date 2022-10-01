@@ -1,0 +1,15 @@
+D:\Frontend\gb\C#\Homework4\exersize29\obj\Debug\net6.0\exersize29.csproj.AssemblyReference.cache
+D:\Frontend\gb\C#\Homework4\exersize29\obj\Debug\net6.0\exersize29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Frontend\gb\C#\Homework4\exersize29\obj\Debug\net6.0\exersize29.AssemblyInfoInputs.cache
+D:\Frontend\gb\C#\Homework4\exersize29\obj\Debug\net6.0\exersize29.AssemblyInfo.cs
+D:\Frontend\gb\C#\Homework4\exersize29\obj\Debug\net6.0\exersize29.csproj.CoreCompileInputs.cache
+D:\Frontend\gb\C#\Homework4\exersize29\bin\Debug\net6.0\exersize29.exe
+D:\Frontend\gb\C#\Homework4\exersize29\bin\Debug\net6.0\exersize29.deps.json
+D:\Frontend\gb\C#\Homework4\exersize29\bin\Debug\net6.0\exersize29.runtimeconfig.json
+D:\Frontend\gb\C#\Homework4\exersize29\bin\Debug\net6.0\exersize29.dll
+D:\Frontend\gb\C#\Homework4\exersize29\bin\Debug\net6.0\exersize29.pdb
+D:\Frontend\gb\C#\Homework4\exersize29\obj\Debug\net6.0\exersize29.dll
+D:\Frontend\gb\C#\Homework4\exersize29\obj\Debug\net6.0\refint\exersize29.dll
+D:\Frontend\gb\C#\Homework4\exersize29\obj\Debug\net6.0\exersize29.pdb
+D:\Frontend\gb\C#\Homework4\exersize29\obj\Debug\net6.0\exersize29.genruntimeconfig.cache
+D:\Frontend\gb\C#\Homework4\exersize29\obj\Debug\net6.0\ref\exersize29.dll
